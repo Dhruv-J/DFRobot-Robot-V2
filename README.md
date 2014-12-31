@@ -1,5 +1,5 @@
 Robot-Rover
 ================
-I bought this robot from robotshop.
+This rover measure various angles and then goes forward. It then repeats the process.
 
-I used an ultrasound sensor to have it steer clear of obstacles. 
+I used an ultrasound sensor to have it steer clear of obstacles.
